@@ -1,0 +1,2 @@
+[Ranobes](https://intradeus.github.io/http-protocol-redirector?r=legado://import/bookSource?src=https://raw.githubusercontent.com/rektpartyaftermath/Legado-booksource-collection/main/Booksource/Ranobes/bookSource.json)
+[Ranobes](https://intradeus.github.io/http-protocol-redirector?r=legado://import/bookSource?src=httpshttps://raw.githubusercontent.com/LNReader/lnreader-plugins/plugins/v3.0.0/.dist/plugins.min.json
